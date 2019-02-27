@@ -1,6 +1,4 @@
 import praw
-import pandas as pd
-import datetime as dt
 import urllib
 
 reddit = praw.Reddit(client_id='APP CLIENT_ID', \
